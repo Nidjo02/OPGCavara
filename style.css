@@ -1,0 +1,92 @@
+/* navbar */
+
+nav {
+    background-color: rgb(68, 27, 95);
+    text-transform: uppercase;
+}
+
+
+
+
+/* header */
+
+header {
+    color: #fff;
+    background-image: url("img/pozadina.jpg");
+    min-height: 37.5rem;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 45% top;
+    background-repeat: no-repeat;
+    
+}
+  
+header h1{
+    font-size: 5rem;
+    font-weight: 700;
+    
+}
+  
+header h2 {
+    font-weight: 400;
+}
+  
+.slika h2 {
+    font-size: 3em;
+}
+
+.naslov {
+    margin-top: 20em;
+    
+}
+
+/* ikonice */
+
+.fad {
+    font-size: 5rem;
+    color: #106d59;
+    margin-bottom: 0.5rem;
+}
+
+h5 {
+    color: #0c6552;
+}
+
+/* main */
+
+.zdjela {
+    width: 90%;
+}
+
+/* kontakt */
+
+.kontakt {
+    background-color: rgb(233, 232, 232);
+    text-align: center;
+    color: rgb(68, 27, 95);
+}
+
+.kontakt h2 {
+    color: rgb(68, 27, 95);
+    font-size: 2em;
+    padding-top: 1em;
+}
+
+#logoVeliki {
+    width: 20%;
+    margin: 0 auto;
+    padding-bottom: 2em;
+}
+
+/* footer */
+
+footer {
+    background-color: rgb(68, 27, 95);
+    color: white;
+    text-align: center;
+}
+
+footer p {
+    padding: 10px 0px;
+    margin: 0;
+}

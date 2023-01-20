@@ -1,0 +1,100 @@
+/* navbar */
+
+nav {
+    background-color: rgb(68, 27, 95);
+    text-transform: uppercase;
+}
+
+
+header {
+    color: #fff;
+    background-image: url("img/aronija background copy.jpg");
+    min-height: 38rem;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 25% 130%;
+    background-repeat: no-repeat;
+    
+}
+  
+header h1{
+    font-size: 5rem;
+    font-weight: 700;
+    
+}
+  
+header h2 {
+    font-weight: 400;
+}
+  
+.slika h2 {
+    font-size: 3em;
+}
+
+.naslov {
+    margin-top: 20em;
+    
+}
+
+/* main */
+
+
+.bold {
+    font-weight: bold;
+    font-size: 1.8em;
+    text-transform: uppercase;
+    text-align: unset;
+    color: rgb(102, 41, 143);
+}
+
+main h2 {
+    color: rgb(102, 41, 143);
+}
+
+main p {
+    text-align: justify;
+}
+
+.crtica {
+    margin-left: 30px;
+    
+}
+
+.aronija img {
+    width: 80%;
+    
+}
+
+/* kontakt */
+
+.kontakt {
+    background-color: rgb(233, 232, 232);
+    text-align: center;
+    color: rgb(68, 27, 95);
+}
+
+.kontakt h2 {
+    color: rgb(68, 27, 95);
+    font-size: 2em;
+    padding-top: 1em;
+}
+
+#logoVeliki {
+    width: 20%;
+    margin: 0 auto;
+    padding-bottom: 2em;
+}
+
+/* footer */
+
+footer {
+    background-color: rgb(68, 27, 95);
+    color: white;
+    text-align: center;
+}
+
+footer p {
+    padding: 10px 0px;
+    margin: 0;
+}
+

@@ -1,0 +1,104 @@
+/* navbar */
+
+nav {
+    background-color: rgb(68, 27, 95);
+    text-transform: uppercase;
+}
+
+
+
+/* header */
+header {
+    color: #fff;
+    background-image: url("img/proizvodi-background.jpg");
+    min-height: 37.5rem;
+    background-size: auto;
+    background-attachment: fixed;
+    background-position: 45% top;
+    background-repeat: no-repeat;
+    
+}
+  
+header h1{
+    font-size: 5rem;
+    font-weight: 700;
+    
+}
+  
+header h2 {
+    font-weight: 400;
+}
+  
+.slika h2 {
+    font-size: 3em;
+}
+
+.naslov {
+    margin-top: 20em;
+    
+}
+
+/* podnaslov */
+
+.podnaslov h2 {
+    color: rgb(22, 132, 22);
+    text-align: center;
+}
+
+.tekst {
+    text-align: center;
+}
+
+/* proizvodi */
+
+.proizvodi {
+    display: flex;
+    justify-content: space-between;
+}
+
+.proizvodi img {
+    width: 70%;
+    margin-left: 30px;
+}
+
+#caj {
+    margin-left: 45px;
+}
+
+.proizvodi h3 {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+/* kontakt */
+
+.kontakt {
+    background-color: rgb(233, 232, 232);
+    text-align: center;
+    color: rgb(68, 27, 95);
+}
+
+.kontakt h2 {
+    color: rgb(68, 27, 95);
+    font-size: 2em;
+    padding-top: 1em;
+}
+
+#logoVeliki {
+    width: 20%;
+    margin: 0 auto;
+    padding-bottom: 2em;
+}
+
+/* footer */
+
+footer {
+    background-color: rgb(68, 27, 95);
+    color: white;
+    text-align: center;
+}
+
+footer p {
+    padding: 10px 0px;
+    margin: 0;
+}
